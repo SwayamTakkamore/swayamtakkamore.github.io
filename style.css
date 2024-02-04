@@ -2,6 +2,7 @@
 
 .warn{
   font-weight: bold;
+  justify-content: centre;
   font-size: 40px;
   font-family: 'Quicksand', sans-serif;
 }
