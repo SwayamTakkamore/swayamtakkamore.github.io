@@ -1,11 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 
 .warn{
-  left: 50%;
-  transform: translate(-50%,-50%);
-}
-
-.warn p{
   font-weight: bold;
   font-size: 40px;
   font-family: 'Quicksand', sans-serif;
